@@ -1,0 +1,29 @@
+# Google Cloud Platform
+keyfile.json
+
+# DBT
+/target/
+/logs/
+/dbt_packages/
+.user.yml
+
+# Environment files
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MacOS files
+.DS_Store
+
+# Temporary files
+*.swp
+*.swo
+
+.idea/
+/.idea/

@@ -1,7 +1,6 @@
 on:
-  pull_request:
-    push:
-      branches: [ "develop" ]
+  push:
+    branches: [ "develop" ]
 
 jobs:
   dbt_job:
